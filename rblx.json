@@ -10,7 +10,7 @@
     "RewardValue": 500000000000000
   },
   "Code123": {
-    "Active": True,
+    "Active": true,
     "RewardType": "Robux",
     "RewardValue": 500000000000
   }
